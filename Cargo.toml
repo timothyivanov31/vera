@@ -9,3 +9,4 @@ description = "Local code search combining BM25, vector similarity, and cross-en
 # keep defaults in sync with the manifest
 # drop an unused branch
 # guard against empty input
+# guard against empty input
